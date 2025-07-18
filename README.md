@@ -52,7 +52,3 @@ Projeto baseado no Google Data Analytics Professional Certificate, que responde 
 
 ### [Análise Exploratória dos Microdados do ENEM 2023 (RJ)](https://github.com/lauragonzaga/EDA-ENEM-RJ-2023)  
 Estudo pessoal focado nos participantes do ENEM 2023 no Rio de Janeiro, investigando desigualdades de desempenho escolar por gênero, raça, renda, tipo de escola e localização geográfica. Inclui limpeza, tratamento e visualização dos dados.  
-
----
-
-<img src="https://raw.githubusercontent.com/lauragonzaga/lauragonzaga/output/snake.svg" alt="Snake animation" />
