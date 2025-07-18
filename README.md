@@ -55,4 +55,4 @@ Estudo pessoal focado nos participantes do ENEM 2023 no Rio de Janeiro, investig
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/lauragonzaga/lauragonzaga/output/snake.svg)
+<img src="https://raw.githubusercontent.com/lauragonzaga/lauragonzaga/output/snake.svg" alt="Snake animation" />
