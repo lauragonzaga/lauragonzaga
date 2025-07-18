@@ -59,11 +59,4 @@ Estudo pessoal focado nos participantes do ENEM 2023 no Rio de Janeiro, investig
 
 ## Contato
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/laura-gonzaga" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="33" alt="linkedin logo" />
-  </a>
-  <a href="mailto:lauracgonzaga@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="33" alt="gmail logo" />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-gonzaga) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lauracgonzaga@gmail.com)
