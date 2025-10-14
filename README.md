@@ -22,29 +22,29 @@ Atualmente curso pós-graduação em **Ciência de Dados e Analytics** na PUC-Ri
 ## Ferramentas e linguagens
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo" title="RStudio" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" title="Pandas" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" title="Jupyter Notebook" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo" title="Slack" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" title="GitHub" />
   <img width="12" />
-  <img src="https://az-icons.com/export/icons/d180faa9ddc77cb9e841ff02998e5e21.svg" height="40" alt="databricks logo"  />
+  <img src="https://az-icons.com/export/icons/d180faa9ddc77cb9e841ff02998e5e21.svg" height="40" alt="databricks logo" title="Databricks" />
   <img width="12" />
-  <img src="https://az-icons.com/export/icons/e4e7a2a46c0b319dc5989d4b4977cad1.svg" height="40" alt="power bi logo"  />
+  <img src="https://az-icons.com/export/icons/e4e7a2a46c0b319dc5989d4b4977cad1.svg" height="40" alt="power bi logo" title="Power BI" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" height="40" alt="tableau logo"  />
+  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" height="40" alt="tableau logo" title="Tableau" />
   <img width="12" />
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" height="40" alt="excel logo"  />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" height="40" alt="excel logo" title="Microsoft Excel" />
 </div>
 
 ---
