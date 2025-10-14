@@ -41,6 +41,12 @@ Atualmente curso pós-graduação em **Ciência de Dados e Analytics** na PUC-Ri
 
 ## Projetos em Destaque
 
+### [MVP: Predição de Popularidade de Faixas no Spotify](https://github.com/lauragonzaga/MVP-Spotify-Hits-ML)
+
+Projeto de classificação supervisionada que estima a probabilidade de uma música se tornar um hit no Spotify, utilizando pipelines de Machine Learning, validação cruzada e métricas voltadas a dados desbalanceados.
+
+---
+
 ### [MVP: Representatividade Feminina no Cinema](https://github.com/lauragonzaga/MVP-Representatividade-Feminina-no-Cinema)  
 Análise das desigualdades de gênero na indústria cinematográfica, focando na participação feminina em direção, roteiro e protagonismo.
 
