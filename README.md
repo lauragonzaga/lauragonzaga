@@ -24,7 +24,9 @@ Atualmente curso pós-graduação em **Ciência de Dados e Analytics** na PUC-Ri
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
   <img width="12" />
@@ -35,6 +37,14 @@ Atualmente curso pós-graduação em **Ciência de Dados e Analytics** na PUC-Ri
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://az-icons.com/export/icons/d180faa9ddc77cb9e841ff02998e5e21.svg" height="40" alt="databricks logo"  />
+  <img width="12" />
+  <img src="https://az-icons.com/export/icons/e4e7a2a46c0b319dc5989d4b4977cad1.svg" height="40" alt="power bi logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" height="40" alt="tableau logo"  />
+  <img width="12" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/microsoft-excel-icon.png" height="40" alt="excel logo"  />
 </div>
 
 ---
