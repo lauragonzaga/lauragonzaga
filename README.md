@@ -2,11 +2,8 @@
 
 Analista de dados em formação, apaixonada por transformar informação em análise crítica, visual e estratégica.
 
-Atualmente curso pós-graduação em **Ciência de Dados e Analytics** na PUC-Rio e trabalho como assistente de pesquisa no **Data Zoom**, projeto do Departamento de Economia que promove o acesso e a análise de microdados públicos no Brasil.
 
 ---
-
-## Sobre mim
 
 🎓 Bacharelado em Comunicação Social pela PUC-Rio  
 📚 Pós-graduada em Ciência de Dados e Analytics na PUC-Rio  
