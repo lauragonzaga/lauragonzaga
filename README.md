@@ -9,8 +9,8 @@ Atualmente curso pós-graduação em **Ciência de Dados e Analytics** na PUC-Ri
 ## Sobre mim
 
 🎓 Bacharelado em Comunicação Social pela PUC-Rio  
-📚 Pós-graduanda em Ciência de Dados e Analytics na PUC-Rio  
-🔬 Assistente de pesquisa no Data Zoom (PUC-Rio | Economia)  
+📚 Pós-graduada em Ciência de Dados e Analytics na PUC-Rio  
+🔬 Assistente de pesquisa no Data Zoom (PUC-Rio | Departamento de Economia)  
 👩‍💻 Programo em Python, R e SQL  
 📊 Trabalho com ferramentas de visualização como Power BI e Tableau  
 📖 Estudando machine learning, modelagem de dados, pipelines e AWS  
