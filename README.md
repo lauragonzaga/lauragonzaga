@@ -1,4 +1,4 @@
-# 🌻 Olá, sou a Laura!
+# Sobre mim
 
 Analista de dados em formação, apaixonada por transformar informação em análise crítica, visual e estratégica.
 
