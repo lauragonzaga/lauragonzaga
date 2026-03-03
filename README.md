@@ -9,9 +9,9 @@ Analista de dados em formação, apaixonada por transformar informação em aná
 📚 Pós-graduada em Ciência de Dados e Analytics na PUC-Rio  
 🔬 Assistente de pesquisa no Data Zoom (PUC-Rio | Departamento de Economia)  
 👩‍💻 Programo em Python, R e SQL  
-📊 Trabalho com ferramentas de visualização como Power BI e Tableau
-🎬 Atuei como editora de vídeo, onde desenvolvi sensibilidade para storytelling
-🧠 Curiosa, analítica, e focada em resultados
+📊 Trabalho com ferramentas de visualização como Power BI e Tableau  
+🎬 Atuei como editora de vídeo, onde desenvolvi sensibilidade para storytelling  
+🧠 Curiosa, analítica, e focada em resultados  
 
 ---
 
